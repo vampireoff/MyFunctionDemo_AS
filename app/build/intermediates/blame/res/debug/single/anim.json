@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate2.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\anim\\rotate2.xml"
+    }
+]

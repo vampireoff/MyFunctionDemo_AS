@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stroke_black.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\stroke_black.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mainprogressbar_bg.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\mainprogressbar_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundleftbtnclick_bg.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\roundleftbtnclick_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topround_bg.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\topround_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_dark.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stroke.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\stroke.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundlr_gray1.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\roundlr_gray1.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tvshow_shape.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\tvshow_shape.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topround_bluebg.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\topround_bluebg.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundrightbtnclick_bg.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\roundrightbtnclick_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stroke3.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\stroke3.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tworoundbtn_bg.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\tworoundbtn_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topround_graybg.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\topround_graybg.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verifybtn_bgo.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\verifybtn_bgo.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_shape.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\dialog_shape.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\crop__selectable_background.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\crop__selectable_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leftbtnclick_bg.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\leftbtnclick_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stroke2.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\stroke2.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_nobgd.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\bt_nobgd.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rightbtnclick_bg.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\rightbtnclick_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottomround_bg.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\bottomround_bg.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_background_holo_light.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alterpwd_editshape.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\alterpwd_editshape.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundcorner.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\roundcorner.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\leak_canary_toast_background.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable\\leak_canary_toast_background.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundtop_tranwhite.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\roundtop_tranwhite.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounddialog_shape.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\rounddialog_shape.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\stroke1.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\stroke1.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_back.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\listview_back.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundcorner_blue.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\roundcorner_blue.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\verifybtn_bgg.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\verifybtn_bgg.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable\\list_selector_background_transition_holo_dark.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\leak_canary_icon.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable-xxxhdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\leak_canary_notification.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable-xxxhdpi-v4\\leak_canary_notification.png"
+    }
+]

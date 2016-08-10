@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_focused_holo.9.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\np_numberpicker_selection_divider.9.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\np_numberpicker_selection_divider.9.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pink.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\pink.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\green.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\green.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leak_canary_icon.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable-hdpi-v4\\leak_canary_icon.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_pressed_holo_light.9.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\calendar_month_left.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\calendar_month_left.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector_disabled_holo_light.9.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blue.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\blue.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_longpressed_holo.9.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leak_canary_notification.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\drawable-hdpi-v4\\leak_canary_notification.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_pressed_holo_dark.9.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\calendar_month_right.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\calendar_month_right.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mainloading.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\mainloading.png"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\drawable-hdpi\\list_selector_disabled_holo_dark.9.png"
+    }
+]

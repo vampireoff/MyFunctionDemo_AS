@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_multichoice_layout.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\dialog_multichoice_layout.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datedialog_view.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\datedialog_view.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xutil.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\activity_xutil.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datedialog.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\datedialog.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_db.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\fragment_db.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\deptselect_dialogview.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\deptselect_dialogview.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xutilsdb.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\activity_xutilsdb.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_http.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\fragment_http.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress_dialog.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_big_image.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\activity_big_image.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_image.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\fragment_image.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\divide_gray3_h.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\divide_gray3_h.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\versiontip_view.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\versiontip_view.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_item.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\download_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\faillist_dialogview.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\faillist_dialogview.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_multichoice_item.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\dialog_multichoice_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\selectview_item.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\selectview_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_download.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\activity_download.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exit_view.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\exit_view.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_xutilshttp.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\activity_xutilshttp.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_with_selector_wheel.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\number_picker_with_selector_wheel.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_volley.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\activity_volley.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.4-beta2\\res\\layout\\leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_item.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\image_item.xml"
+    },
+    {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_main.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\item_main.xml"
+    }
+]
