@@ -10,11 +10,28 @@ android {
         minSdkVersion 14
         targetSdkVersion 23
 
-        ndk{
-            moduleName "JniTest"
-            abiFilters "armeabi", "armeabi-v7a", "x86"
-        }
+//        ndk{
+//            moduleName "JniTest"
+//            abiFilters "armeabi", "armeabi-v7a", "x86"
+//        }
     }
+
+    sourceSets.main {
+        jni.srcDirs = []
+    }
+
+    task ndkBuild(type: Exec, description:'Compile JNI source via NDK'){
+        commandLine "D:\\StudioSDK\\ndk-bundle\\build\\ndk-build.cmd",
+                'NDK_PROJECT_PATH=build/intermediates/ndk',
+                'NDK_LIBS_OUT=src/main/jniLibs',
+                'APP_BUILD_SCRIPT=src/main/JNI/Android.mk',
+                'NDK_APPLICATION_MK=src/main/JNI/Application.mk'
+    }
+
+    tasks.withType(JavaCompile){
+        compileTask -> compileTask.dependsOn ndkBuild
+    }
+
     buildTypes {
         release {
             minifyEnabled false

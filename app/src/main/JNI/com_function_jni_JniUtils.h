@@ -15,6 +15,14 @@ extern "C" {
 JNIEXPORT jstring JNICALL Java_com_function_jni_JniUtils_getStringFromC
   (JNIEnv *, jclass);
 
+/*
+ * Class:     com_function_jni_JniUtils
+ * Method:    getStringFromC2
+ * Signature: ()Ljava/lang/String;
+ */
+JNIEXPORT jstring JNICALL Java_com_function_jni_JniUtils_getStringFromC2
+  (JNIEnv *, jclass);
+
 #ifdef __cplusplus
 }
 #endif

@@ -11,6 +11,7 @@ import android.os.Bundle;
 import android.telephony.PhoneStateListener;
 import android.telephony.SignalStrength;
 import android.telephony.TelephonyManager;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -49,7 +50,9 @@ public class AlarmTimerActivity extends BaseActivity implements MyLocationManage
         setContentView(R.layout.activity_alarm);
         textView = getTextView(R.id.alarm_text);
         button = getButton(R.id.alarm_btn);
-        textView.setText(JniUtils.getStringFromC());
+        textView.setText(JniUtils.getStringFromC2());
+        JniUtils.setVar();
+        Log.i("logvar", JniUtils.var+"");
 
         myLocationManager = new MyLocationManager(AlarmTimerActivity.this, this);
 
@@ -85,7 +88,7 @@ public class AlarmTimerActivity extends BaseActivity implements MyLocationManage
     @Override
     protected void onPause() {
         super.onPause();
-        myLocationManager.destoryLocationManager();
+
     }
 
     @Override
@@ -153,6 +156,7 @@ public class AlarmTimerActivity extends BaseActivity implements MyLocationManage
     protected void onDestroy() {
         // TODO Auto-generated method stub
         super.onDestroy();
+        myLocationManager.destoryLocationManager();
         Tel.listen(MyListener, PhoneStateListener.LISTEN_NONE);
         alarmManager.cancel(pIntent);
         sendBroadcast(new Intent("stop"));
