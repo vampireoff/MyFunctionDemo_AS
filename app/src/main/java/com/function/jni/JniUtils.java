@@ -17,6 +17,7 @@ public class JniUtils {
     }
 
     public static native String getStringFromC();
-    public static native String getStringFromC2();
+    public static native String callback_myLog();
     public static native void setVar();
+    public native static String sayHello(String text);
 }

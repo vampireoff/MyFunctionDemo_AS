@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:2:1-65:12
+ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:2:1-66:12
 	package
 		ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml
@@ -115,7 +115,7 @@ ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:32:5
 	android:name
 		ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:32:22-63
 application
-ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:34:5-63:19
+ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:34:5-64:19
 MERGED from [com.android.support:support-v4:23.1.1] E:\Android_Demo\MyFunctionDemo1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] E:\Android_Demo\MyFunctionDemo1\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.4-beta2\AndroidManifest.xml:28:5-57:19
 	android:label
@@ -180,12 +180,16 @@ activity#com.function.activity.XutilsDbActivity
 ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:58:9-63
 	android:name
 		ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:58:19-51
-receiver#com.function.receiver.AlarmReceiver
-ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:59:9-62:20
-	android:exported
-		ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:60:13-37
+activity#com.function.activity.JniActivity
+ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:59:9-58
 	android:name
-		ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:61:13-63
+		ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:59:19-46
+receiver#com.function.receiver.AlarmReceiver
+ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:60:9-63:20
+	android:exported
+		ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from E:\Android_Demo\MyFunctionDemo1\app\src\main\AndroidManifest.xml:62:13-63
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from [com.squareup.leakcanary:leakcanary-android:1.4-beta2] E:\Android_Demo\MyFunctionDemo1\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.4-beta2\AndroidManifest.xml:25:5-80
 	android:name

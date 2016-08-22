@@ -58,6 +58,7 @@
         <activity android:name="com.function.activity.DownloadActivity" />
         <activity android:name="com.function.activity.XutilsHttpActivity" />
         <activity android:name="com.function.activity.XutilsDbActivity" />
+        <activity android:name="com.function.activity.JniActivity" />
 
         <receiver
             android:name="com.function.receiver.AlarmReceiver"

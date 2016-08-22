@@ -13,24 +13,24 @@ public final class R {
 		public static final int leak_canary_toast_background = 0x7f02000e;
 	}
 	public static final class id {
-		public static final int __leak_canary_action = 0x7f09003d;
-		public static final int __leak_canary_display_leak_failure = 0x7f09003c;
-		public static final int __leak_canary_display_leak_list = 0x7f09003b;
-		public static final int __leak_canary_row_connector = 0x7f090040;
-		public static final int __leak_canary_row_more = 0x7f090041;
-		public static final int __leak_canary_row_text = 0x7f09003e;
-		public static final int __leak_canary_row_time = 0x7f09003f;
+		public static final int __leak_canary_action = 0x7f090041;
+		public static final int __leak_canary_display_leak_failure = 0x7f090040;
+		public static final int __leak_canary_display_leak_list = 0x7f09003f;
+		public static final int __leak_canary_row_connector = 0x7f090044;
+		public static final int __leak_canary_row_more = 0x7f090045;
+		public static final int __leak_canary_row_text = 0x7f090042;
+		public static final int __leak_canary_row_time = 0x7f090043;
 	}
 	public static final class integer {
 		public static final int leak_canary_max_stored_leaks = 0x7f0a0000;
 		public static final int leak_canary_watch_delay_millis = 0x7f0a0001;
 	}
 	public static final class layout {
-		public static final int leak_canary_display_leak = 0x7f030016;
-		public static final int leak_canary_heap_dump_toast = 0x7f030017;
-		public static final int leak_canary_leak_row = 0x7f030018;
-		public static final int leak_canary_ref_row = 0x7f030019;
-		public static final int leak_canary_ref_top_row = 0x7f03001a;
+		public static final int leak_canary_display_leak = 0x7f030017;
+		public static final int leak_canary_heap_dump_toast = 0x7f030018;
+		public static final int leak_canary_leak_row = 0x7f030019;
+		public static final int leak_canary_ref_row = 0x7f03001a;
+		public static final int leak_canary_ref_top_row = 0x7f03001b;
 	}
 	public static final class string {
 		public static final int leak_canary_analysis_failed = 0x7f050000;

@@ -50,9 +50,6 @@ public class AlarmTimerActivity extends BaseActivity implements MyLocationManage
         setContentView(R.layout.activity_alarm);
         textView = getTextView(R.id.alarm_text);
         button = getButton(R.id.alarm_btn);
-        textView.setText(JniUtils.getStringFromC2());
-        JniUtils.setVar();
-        Log.i("logvar", JniUtils.var+"");
 
         myLocationManager = new MyLocationManager(AlarmTimerActivity.this, this);
 
@@ -139,7 +136,7 @@ public class AlarmTimerActivity extends BaseActivity implements MyLocationManage
         @Override
         public void onReceive(Context context, Intent intent) {
             // TODO Auto-generated method stub
-//			textView.setText(count + "");
+			textView.setText(count + "");
             count++;
         }
     };

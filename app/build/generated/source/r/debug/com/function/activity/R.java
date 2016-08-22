@@ -234,14 +234,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int verifybtn_bgo=0x7f020031;
     }
     public static final class id {
-        public static final int __leak_canary_action=0x7f09003d;
-        public static final int __leak_canary_display_leak_failure=0x7f09003c;
-        public static final int __leak_canary_display_leak_list=0x7f09003b;
-        public static final int __leak_canary_row_connector=0x7f090040;
-        public static final int __leak_canary_row_more=0x7f090041;
-        public static final int __leak_canary_row_text=0x7f09003e;
-        public static final int __leak_canary_row_time=0x7f09003f;
-        public static final int action_settings=0x7f090049;
+        public static final int __leak_canary_action=0x7f090041;
+        public static final int __leak_canary_display_leak_failure=0x7f090040;
+        public static final int __leak_canary_display_leak_list=0x7f09003f;
+        public static final int __leak_canary_row_connector=0x7f090044;
+        public static final int __leak_canary_row_more=0x7f090045;
+        public static final int __leak_canary_row_text=0x7f090042;
+        public static final int __leak_canary_row_time=0x7f090043;
+        public static final int action_settings=0x7f09004d;
         public static final int alarm_btn=0x7f090002;
         public static final int alarm_text=0x7f090003;
         public static final int bottomview=0x7f09001a;
@@ -254,6 +254,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int btn_test_db2=0x7f09002f;
         public static final int button=0x7f09000b;
         public static final int button1=0x7f09000c;
+        public static final int button2=0x7f09003b;
+        public static final int button3=0x7f09003c;
+        public static final int button4=0x7f09003e;
         public static final int button_cancle=0x7f090017;
         public static final int buttonview=0x7f090021;
         public static final int calendar=0x7f090016;
@@ -272,6 +275,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int download_state=0x7f090027;
         public static final int download_stop_btn=0x7f090029;
         public static final int dtitle=0x7f090018;
+        public static final int edittxt1=0x7f09003d;
         public static final int et_url=0x7f090033;
         public static final int httpfragment=0x7f09000e;
         public static final int img=0x7f090008;
@@ -292,21 +296,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int network_image_view=0x7f090007;
         public static final int np__decrement=0x7f090000;
         public static final int np__increment=0x7f090001;
-        public static final int np__numberpicker_input=0x7f090042;
+        public static final int np__numberpicker_input=0x7f090046;
         public static final int np_hour=0x7f09000f;
         public static final int np_minute=0x7f090010;
-        public static final int nu_button=0x7f090048;
+        public static final int nu_button=0x7f09004c;
         public static final int positiveButton=0x7f090022;
-        public static final int progress_linear=0x7f090043;
-        public static final int progress_text=0x7f090044;
-        public static final int select_item=0x7f090045;
+        public static final int progress_linear=0x7f090047;
+        public static final int progress_text=0x7f090048;
+        public static final int select_item=0x7f090049;
         public static final int sure_btn=0x7f090011;
         public static final int tip_text=0x7f09002b;
         public static final int toprelative=0x7f090012;
         public static final int topview=0x7f09001e;
         public static final int tv_db_result=0x7f090030;
-        public static final int u_button=0x7f090047;
-        public static final int version_info=0x7f090046;
+        public static final int u_button=0x7f09004b;
+        public static final int version_info=0x7f09004a;
         public static final int y_button=0x7f09002c;
     }
     public static final class integer {
@@ -336,15 +340,16 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int fragment_image=0x7f030013;
         public static final int image_item=0x7f030014;
         public static final int item_main=0x7f030015;
-        public static final int leak_canary_display_leak=0x7f030016;
-        public static final int leak_canary_heap_dump_toast=0x7f030017;
-        public static final int leak_canary_leak_row=0x7f030018;
-        public static final int leak_canary_ref_row=0x7f030019;
-        public static final int leak_canary_ref_top_row=0x7f03001a;
-        public static final int number_picker_with_selector_wheel=0x7f03001b;
-        public static final int progress_dialog=0x7f03001c;
-        public static final int selectview_item=0x7f03001d;
-        public static final int versiontip_view=0x7f03001e;
+        public static final int jni_activity=0x7f030016;
+        public static final int leak_canary_display_leak=0x7f030017;
+        public static final int leak_canary_heap_dump_toast=0x7f030018;
+        public static final int leak_canary_leak_row=0x7f030019;
+        public static final int leak_canary_ref_row=0x7f03001a;
+        public static final int leak_canary_ref_top_row=0x7f03001b;
+        public static final int number_picker_with_selector_wheel=0x7f03001c;
+        public static final int progress_dialog=0x7f03001d;
+        public static final int selectview_item=0x7f03001e;
+        public static final int versiontip_view=0x7f03001f;
     }
     public static final class menu {
         public static final int main=0x7f0b0000;

@@ -28,7 +28,7 @@ JNIEXPORT jstring JNICALL Java_com_function_jni_JniUtils_setVar
     (*env)->SetStaticIntField(env, jc, jfieldID1, 3);
 }
 
-JNIEXPORT jstring JNICALL Java_com_function_jni_JniUtils_getStringFromC2
+JNIEXPORT jstring JNICALL Java_com_function_jni_JniUtils_callback_lmyLog
         (JNIEnv * env, jclass jc)
 {
     //获取java类对应的jclass对象
@@ -44,14 +44,34 @@ JNIEXPORT jstring JNICALL Java_com_function_jni_JniUtils_getStringFromC2
         //调用java里的方法
         (*env)->CallStaticVoidMethod(env, jclass1, jmethodID1);
     }
-    return (*env)->NewStringUTF(env, "这里是来自第二个c的string");
+    return (*env)->NewStringUTF(env, "回调myLog方法");
 }
 
+/**
+ * 获取值后返回
+ */
+JNIEXPORT jstring JNICALL Java_com_function_jni_JniUtils_sayHello
+        (JNIEnv * env, jclass jc, jstring j_str)
+{
+    const char *c_str = NULL;
+    char buff[128] = {0};
+    jboolean isCopy;    // 返回JNI_TRUE表示原字符串的拷贝，返回JNI_FALSE表示返回原字符串的指针
+    c_str = (*env)->GetStringUTFChars(env, j_str, &isCopy);
+    printf("isCopy:%d\n",isCopy);
+    if(c_str == NULL)
+    {
+        return NULL;
+    }
+    printf("C_str: %s \n", c_str);
+    sprintf(buff, "hello %s", c_str);
+    (*env)->ReleaseStringUTFChars(env, j_str, c_str);
+    return (*env)->NewStringUTF(env,buff);
+}
 /********************************动态注册************************************/
 //Java和JNI函数的绑定表
 static JNINativeMethod method_table[] = {
-        { "getStringFromC2", "()Ljava/lang/String;",
-                (void*)Java_com_function_jni_JniUtils_getStringFromC2 }//绑定
+        { "callback_myLog", "()Ljava/lang/String;",
+                (void*)Java_com_function_jni_JniUtils_callback_lmyLog }//绑定
 };
 
 //注册native方法到java中

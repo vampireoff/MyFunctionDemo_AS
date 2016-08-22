@@ -104,6 +104,10 @@
         "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\activity_xutilshttp.xml"
     },
     {
+        "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jni_activity.xml",
+        "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\jni_activity.xml"
+    },
+    {
         "merged": "E:\\Android_Demo\\MyFunctionDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_with_selector_wheel.xml",
         "source": "E:\\Android_Demo\\MyFunctionDemo1\\app\\src\\main\\res\\layout\\number_picker_with_selector_wheel.xml"
     },

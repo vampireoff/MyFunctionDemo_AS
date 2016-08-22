@@ -56,7 +56,8 @@
         <activity android:name=".DownloadActivity"></activity>
         <activity android:name=".XutilsHttpActivity"></activity>
         <activity android:name=".XutilsDbActivity"></activity>
-        <receiver 
+        <activity android:name=".JniActivity"></activity>
+        <receiver
             android:exported="false"
             android:name="com.function.receiver.AlarmReceiver">
         </receiver>
