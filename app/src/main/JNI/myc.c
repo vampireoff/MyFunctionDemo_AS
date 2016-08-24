@@ -21,7 +21,7 @@ JNIEXPORT void JNICALL Java_com_function_jni_JniUtils_initID
     static jobject sresult;
     if ((*env)->PushLocalFrame(env, 10) < 0) {
         if ((*env)->EnsureLocalCapacity(env, 8) != 0) {
-            /*申请len个局部引用的内存空间失败 OutOfMemoryError*/
+            /*申请8个局部引用的内存空间失败 OutOfMemoryError*/
             return;
         }
         int i;
@@ -35,7 +35,7 @@ JNIEXPORT void JNICALL Java_com_function_jni_JniUtils_initID
     }
     jobject result;
     if ((*env)->IsSameObject(env, result, NULL) == JNI_TRUE) {
-        //相等，等于null
+        //相等，result等于null
     }
     sresult = (*env)->NewGlobalRef(env, result);//变成全局变量。还有局部变量和全局弱变量
     jmethodID1 = (*env)->GetStaticMethodID(env, jc, "getStringFromC", "()Ljava/lang/String;");
@@ -489,7 +489,7 @@ JNIEXPORT jint JNI_OnLoad(JavaVM *vm, void *reserved) {
 JNIEXPORT void JNICALL JNI_OnUnload(JavaVM *vm, void *reserved) {
     LOG_I("JNI_OnUnload method call begin");
     JNIEnv *env = NULL;
-    if ((*vm)->GetEnv(vm, (void **) &env, JNI_VERSION_1_6) != JNI_OK) {
+    if ((*vm)->GetEnv(vm, (void **) &env, JNI_VERSION_1_4) != JNI_OK) {
         return;
     }
     (*env)->UnregisterNatives(env, g_cls_MainActivity); // so被卸载的时候解除注册
